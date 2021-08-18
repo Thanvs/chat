@@ -1,0 +1,30 @@
+.full-details{
+    max-width: 50em !important;
+    color: white;
+    
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(chat.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.btn{
+    background-color:aquamarine !important;
+    font-size: medium !important;
+    outline: none !important;
+    box-shadow: none !important;
+    color: black !important;
+    
+}
+.btn:hover{
+    outline: none !important;
+    color: white !important;
+    box-shadow: none !important;
+}
+.username{
+    font-weight:bolder;
+}
+.time{
+    font-size: 0.8em;
+    color: grey;
+}
